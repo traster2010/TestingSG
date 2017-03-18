@@ -27,6 +27,7 @@
           [Java Code of MostRepeatPhrasesFile.class](https://github.com/traster2010/TestingSG/blob/master/MostRepeatPhrasesFileTest/src/mostRepeatPhrasesFile/MostRepeatPhrasesFile.java) який реалізує логіку вказаного знаходження.
 	  [Unit Test for MostRepeatPhrasesFile.class](https://github.com/traster2010/TestingSG/blob/master/MostRepeatPhrasesFileTest/test/mostRepeatPhrasesFile/MostRepeatPhrasesFileTest.java) з статусом перевірки "зелений" .
 	  [Java Documantation of MostRepeatPhrasesFile.class](https://github.com/traster2010/TestingSG/tree/master/MostRepeatPhrasesFileTest/doc)
+          [Text file  with phrases for testing](https://github.com/traster2010/TestingSG/blob/master/TestFile.txt)
 - [x] 4. Тестове завдання по написанню структури даних CacheMap з функціональність автоматичного видалення застарілих записів. 
           [Java Code of CacheMapInpl.class](https://github.com/traster2010/TestingSG/blob/master/CacheMapInplTest/src/cachemapinpl/CacheMapInpl.java) який реалізує логіку вказаної структури даних.
 	  [Unit Test for CacheMapInpl.class](https://github.com/traster2010/TestingSG/blob/master/CacheMapInplTest/test/cachemapinpl/CacheMapInplTest.java) з статусом перевірки "зелений" .
