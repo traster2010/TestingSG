@@ -2,7 +2,7 @@
 
 Опис тестових завдань:
 
-
+[Testing Tasks](https://github.com/traster2010/TestingSG/blob/master/TestingTasks.md)
 
 Відповіді на тестові завдання SQL:
 
