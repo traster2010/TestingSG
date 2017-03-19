@@ -8,7 +8,6 @@ public interface PerformanceTester {
 	 * @param executionCount how many times the task should be executed in total
 	 * @param threadPoolSize how many threads to use
 	 * @return resulting times for task
-	 * @throws {InterruptedException}
 	 */
 	public PerformanceTestResult runPerformanceTest(
 			Runnable task,

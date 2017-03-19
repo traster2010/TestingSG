@@ -8,12 +8,12 @@ import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 
 /**
- * Class performanceTesterInplTest demonstrates JUnit test 
+ * Class PerformanceTesterInplTest demonstrates JUnit test 
  * functionality methods of PerformanceTesterInpl class
  * @version 1.01 19.03.2017
  * @author Yury Kovalchuk
  */
-public class performanceTesterInplTest extends TestCase {
+public class PerformanceTesterInplTest extends TestCase {
 	PerformanceTester performTester ;
 	int n;				// index Fibonacci 
 	int executionCount; // how many times the task should be executed in total
@@ -25,7 +25,7 @@ public class performanceTesterInplTest extends TestCase {
 	public static void main(String[] args) throws Exception 
 	{
 		JUnitCore runner = new JUnitCore();
-		Result result = runner.run(performanceTesterInplTest.class);
+		Result result = runner.run(PerformanceTesterInplTest.class);
 		System.out.println("Run tests: " + result.getRunCount());
 		System.out.println("Failed tests: " + result.getFailureCount());
 		System.out.println("Ignored tests: " + result.getIgnoreCount());

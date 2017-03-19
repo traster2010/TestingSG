@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 /**
- * The performanceTesterInpl class provides methods for
+ * The PerformanceTesterInpl class provides methods for
  * run a performance test of the given task
  * @version 1.01 19.03.2017
  * @author Yury Kovalchuk
@@ -19,7 +19,6 @@ public class PerformanceTesterInpl implements PerformanceTester {
 	 * @param executionCount how many times the task should be executed in total
 	 * @param threadPoolSize how many threads to use
 	 * @return resulting times for task
-	 * @throws {InterruptedException}
 	 */
 	public PerformanceTestResult runPerformanceTest(Runnable task,int executionCount,int threadPoolSize) throws InterruptedException
 	{   
