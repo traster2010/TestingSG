@@ -32,3 +32,7 @@
           [Java Code of CacheMapInpl.class](https://github.com/traster2010/TestingSG/blob/master/CacheMapInplTest/src/cachemapinpl/CacheMapInpl.java) який реалізує логіку вказаної структури даних.
 	  [Unit Test for CacheMapInpl.class](https://github.com/traster2010/TestingSG/blob/master/CacheMapInplTest/test/cachemapinpl/CacheMapInplTest.java) з статусом перевірки "зелений". 
 	  [Java Documantation of CacheMapInpl.class](https://github.com/traster2010/TestingSG/tree/master/CacheMapInplTest/doc)
+- [x] 5. Тестове завдання по написанню багато-потоковий тестер, котрий вимірює продуктивність функції, яка вираховує числа Фібоначі. 
+          [Java Code of PerformanceTesterInpl.class](Test project - many-thread tester for Fibonacci number) який реалізує логіку вказаного тестера.
+	  [Unit Test for PerformanceTesterInpl.class](https://github.com/traster2010/TestingSG/blob/master/PerformanceTesterInplTest/test/performanceTesterInpl/performanceTesterInplTest.java) з статусом перевірки "зелений". 
+	  [Java Documantation of PerformanceTesterInpl.class](https://github.com/traster2010/TestingSG/tree/master/PerformanceTesterInplTest/doc)
